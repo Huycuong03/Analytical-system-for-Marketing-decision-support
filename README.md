@@ -4,6 +4,8 @@
 
 This project focuses on developing an **Analytical System for Marketing Decision Support**. The system leverages **data analytics, machine learning, and visualization tools** to help the marketing team make **data-driven decisions**. It provides insights into **customer behavior, sales performance, campaign effectiveness**, and more.
 
+**Note**: The data used in this project (under the folder /data) is mock data and for development only. The system should connect to a RMDB instead.
+
 ## Objectives
 
 The primary goal is to create a **Decision Support System (DSS)** that enables the marketing team to:
