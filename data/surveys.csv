@@ -1,0 +1,1001 @@
+id,year,quarter,age,gender,income_level,education_level,visit_frequency,social_media,favorite_product_id,rating,comment,positive_comment
+1,2023,3,39,false,3,4,3,2,3,2,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",true
+2,2023,1,23,true,1,2,4,2,8,5,Suspendisse ornare consequat lectus.,false
+3,2020,2,25,true,1,4,4,3,4,1,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",true
+4,2017,1,43,false,3,4,4,1,10,0,Integer tincidunt ante vel ipsum.,false
+5,2021,3,42,false,4,3,7,3,8,1,Etiam vel augue.,true
+6,2021,1,20,true,3,3,6,2,6,3,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,false
+7,2021,4,43,true,4,3,4,3,3,0,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",true
+8,2023,1,40,true,4,4,1,3,6,3,Curabitur at ipsum ac tellus semper interdum.,true
+9,2017,1,21,true,3,4,7,2,5,3,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",false
+10,2020,3,48,false,5,6,4,2,9,4,"Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",true
+11,2017,4,34,true,1,3,5,3,6,4,Aliquam non mauris. Morbi non lectus.,true
+12,2021,4,44,false,4,3,7,1,10,4,In hac habitasse platea dictumst.,true
+13,2022,4,23,false,1,3,7,3,6,2,Nulla mollis molestie lorem.,true
+14,2021,1,16,true,2,2,4,2,4,2,In hac habitasse platea dictumst.,false
+15,2017,4,13,false,3,3,3,1,8,2,Nulla tellus. In sagittis dui vel nisl.,true
+16,2017,1,50,false,3,3,6,2,8,5,Integer a nibh.,true
+17,2021,4,37,false,1,5,2,3,4,4,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",true
+18,2018,4,24,false,2,1,6,2,6,2,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,true
+19,2022,4,14,false,3,6,4,3,5,4,Donec semper sapien a libero. Nam dui.,true
+20,2023,1,24,false,2,1,7,3,8,5,Donec semper sapien a libero.,false
+21,2020,3,45,false,1,1,1,1,10,5,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,false
+22,2019,1,26,true,4,4,1,1,7,2,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,false
+23,2020,2,40,false,2,3,7,2,3,1,Integer ac neque.,true
+24,2023,3,47,false,2,4,7,2,3,3,Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.,false
+25,2019,2,33,true,2,5,3,3,2,3,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,true
+26,2018,3,42,true,3,4,5,1,5,5,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",true
+27,2022,1,23,true,1,4,7,1,5,2,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,true
+28,2017,2,14,false,5,2,2,3,7,3,Suspendisse accumsan tortor quis turpis.,false
+29,2022,4,36,true,1,6,5,2,1,3,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,true
+30,2020,2,32,true,2,3,2,2,8,4,Nullam molestie nibh in lectus.,false
+31,2018,2,34,true,5,6,2,2,3,3,Aliquam non mauris.,true
+32,2023,1,21,false,4,1,2,3,6,0,Praesent id massa id nisl venenatis lacinia.,false
+33,2022,2,30,true,2,5,3,2,1,2,Nullam molestie nibh in lectus.,false
+34,2021,2,15,true,4,4,7,2,2,1,Curabitur convallis.,true
+35,2018,3,49,false,1,2,3,1,7,4,Curabitur gravida nisi at nibh.,false
+36,2020,1,45,true,5,5,5,1,9,2,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",true
+37,2022,4,13,false,5,4,2,2,2,0,Proin eu mi. Nulla ac enim.,false
+38,2020,1,28,false,3,2,2,2,8,5,Suspendisse potenti. In eleifend quam a odio.,false
+39,2018,2,33,false,1,1,6,1,5,0,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,false
+40,2021,2,14,false,4,3,7,2,9,1,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",true
+41,2023,2,31,false,2,1,7,1,7,5,"Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",false
+42,2020,3,13,false,3,4,6,3,7,4,Integer ac neque.,true
+43,2022,2,41,false,3,6,6,1,2,4,"Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",false
+44,2018,3,27,true,3,3,3,2,8,1,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,true
+45,2018,2,46,true,5,3,1,1,9,2,Phasellus in felis. Donec semper sapien a libero.,true
+46,2019,2,49,false,1,1,7,3,2,1,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,true
+47,2023,3,39,true,3,4,5,1,4,5,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",true
+48,2020,3,24,false,2,4,7,3,8,1,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",true
+49,2023,3,16,false,5,4,4,1,6,0,Morbi non quam nec dui luctus rutrum.,true
+50,2021,4,19,false,2,6,2,3,1,0,Phasellus sit amet erat.,false
+51,2021,3,24,true,3,4,4,3,7,4,Aliquam sit amet diam in magna bibendum imperdiet.,true
+52,2022,2,31,false,4,3,7,2,1,5,Etiam pretium iaculis justo.,false
+53,2020,1,14,true,1,3,7,3,4,3,Curabitur at ipsum ac tellus semper interdum.,true
+54,2018,4,16,true,2,5,5,2,2,2,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,true
+55,2021,3,37,false,5,4,6,1,1,5,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,false
+56,2021,1,23,true,5,6,4,1,2,4,Maecenas ut massa quis augue luctus tincidunt.,false
+57,2022,1,48,true,4,5,7,3,3,1,Maecenas pulvinar lobortis est.,false
+58,2018,2,47,false,5,4,5,3,5,5,Mauris ullamcorper purus sit amet nulla.,true
+59,2021,2,32,true,3,1,7,3,3,5,Aenean fermentum.,true
+60,2022,4,21,true,2,2,1,3,7,0,Curabitur in libero ut massa volutpat convallis.,true
+61,2020,2,29,true,4,3,2,1,10,5,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",false
+62,2019,4,32,false,3,3,2,1,9,5,Aenean fermentum.,true
+63,2020,2,42,false,3,6,7,1,10,2,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",true
+64,2023,3,21,false,1,1,7,3,6,1,Donec ut mauris eget massa tempor convallis.,false
+65,2018,2,41,true,2,3,2,2,3,0,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,true
+66,2021,2,16,true,4,1,3,3,7,0,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",false
+67,2020,3,16,false,3,3,6,3,8,4,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,true
+68,2018,2,44,false,4,5,4,2,10,4,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,false
+69,2023,4,32,false,3,6,7,2,8,5,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,true
+70,2023,1,24,true,2,1,1,3,7,1,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,false
+71,2023,2,36,true,1,5,7,2,5,2,Maecenas rhoncus aliquam lacus.,true
+72,2021,2,47,true,3,6,7,3,2,1,Aenean lectus.,false
+73,2021,3,26,true,4,3,6,2,5,5,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",false
+74,2019,3,47,true,2,5,5,2,8,2,Aliquam non mauris. Morbi non lectus.,true
+75,2023,1,49,false,1,5,5,2,10,3,Suspendisse potenti. In eleifend quam a odio.,true
+76,2021,1,48,true,1,5,5,1,8,4,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",false
+77,2020,1,13,false,4,6,6,2,6,1,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,false
+78,2023,2,37,false,5,4,2,3,8,0,In quis justo. Maecenas rhoncus aliquam lacus.,false
+79,2022,1,23,false,4,6,6,2,6,5,Quisque ut erat.,false
+80,2022,2,50,false,2,5,6,3,1,3,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,false
+81,2019,2,39,false,5,1,4,3,8,1,Quisque porta volutpat erat.,false
+82,2021,1,18,true,1,1,6,3,5,3,Vestibulum sed magna at nunc commodo placerat.,true
+83,2018,1,47,false,1,3,6,3,10,2,Morbi non lectus.,true
+84,2020,2,46,true,5,6,4,1,7,1,Etiam vel augue.,false
+85,2018,2,47,false,5,5,6,3,9,4,Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,false
+86,2019,4,37,false,5,3,6,1,8,4,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,false
+87,2021,3,41,true,3,5,7,1,3,3,Aliquam quis turpis eget elit sodales scelerisque.,false
+88,2017,1,42,true,5,5,3,3,7,4,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",true
+89,2018,4,43,false,3,1,4,3,10,1,Donec semper sapien a libero.,false
+90,2022,3,33,true,2,2,3,1,6,4,In quis justo.,false
+91,2021,3,42,true,5,1,7,3,1,0,Phasellus id sapien in sapien iaculis congue.,false
+92,2020,2,17,true,1,3,2,3,8,0,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,true
+93,2023,2,29,true,4,5,6,1,5,4,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",true
+94,2023,3,41,false,1,4,7,3,7,2,Ut at dolor quis odio consequat varius.,false
+95,2022,3,14,true,4,4,7,1,3,5,Morbi porttitor lorem id ligula.,true
+96,2020,4,34,true,4,3,3,2,10,0,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",false
+97,2022,2,47,true,2,3,7,1,10,5,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",false
+98,2019,2,23,false,4,6,6,3,9,5,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,true
+99,2023,2,37,false,2,4,3,3,10,5,Nam dui.,true
+100,2021,3,45,true,1,5,4,3,1,0,Integer ac neque.,true
+101,2023,3,29,false,5,5,5,2,6,3,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,true
+102,2021,4,14,true,2,5,1,1,4,3,Maecenas pulvinar lobortis est. Phasellus sit amet erat.,false
+103,2018,2,20,false,4,3,5,2,7,2,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,false
+104,2020,3,40,false,1,5,3,3,6,4,Quisque ut erat.,true
+105,2021,3,13,true,5,5,7,2,1,3,In hac habitasse platea dictumst.,true
+106,2021,2,29,false,4,1,3,3,1,2,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",true
+107,2019,4,48,true,5,4,2,1,3,5,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,false
+108,2021,1,36,true,3,6,6,1,3,0,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,true
+109,2023,3,14,false,1,6,1,1,4,3,Suspendisse potenti.,false
+110,2019,1,14,false,5,5,3,1,8,3,Morbi a ipsum. Integer a nibh.,false
+111,2023,2,50,true,4,1,4,3,10,2,Etiam justo.,true
+112,2020,2,46,true,5,1,7,2,10,4,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",true
+113,2023,1,35,true,4,4,5,2,1,5,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",false
+114,2023,4,24,true,2,6,3,1,3,0,Pellentesque ultrices mattis odio. Donec vitae nisi.,true
+115,2022,3,46,false,3,6,4,3,9,3,Sed vel enim sit amet nunc viverra dapibus.,false
+116,2022,4,48,true,5,6,1,1,1,4,Nullam varius.,false
+117,2022,2,43,true,1,5,5,1,10,5,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,true
+118,2021,3,34,false,2,2,4,2,3,5,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",false
+119,2019,3,38,false,3,1,3,3,10,0,Nam dui.,true
+120,2021,1,34,false,4,3,4,1,10,4,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",false
+121,2017,2,31,true,2,2,3,2,4,0,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,true
+122,2020,1,39,false,2,3,2,3,7,1,Pellentesque viverra pede ac diam.,false
+123,2017,3,38,false,4,5,7,2,2,3,Nulla facilisi.,false
+124,2020,1,42,false,4,1,6,1,6,3,Ut at dolor quis odio consequat varius.,true
+125,2023,4,39,false,4,5,1,3,10,5,Aenean lectus. Pellentesque eget nunc.,true
+126,2018,3,33,false,1,1,2,1,6,0,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,true
+127,2020,3,45,true,5,4,3,1,4,1,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",true
+128,2022,4,17,false,3,5,1,2,3,3,Aenean lectus.,false
+129,2023,1,49,true,5,5,2,2,8,5,Etiam vel augue.,true
+130,2022,3,27,false,4,2,1,1,4,0,Curabitur at ipsum ac tellus semper interdum.,true
+131,2019,2,16,true,3,4,3,1,2,3,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,false
+132,2018,4,27,true,2,6,7,2,10,4,Etiam pretium iaculis justo.,true
+133,2017,1,21,false,3,6,1,3,1,1,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,false
+134,2019,4,30,false,4,4,3,2,3,0,Nulla mollis molestie lorem. Quisque ut erat.,true
+135,2023,3,21,false,4,3,7,1,9,5,Duis mattis egestas metus. Aenean fermentum.,false
+136,2021,1,27,false,5,6,6,3,2,2,In quis justo. Maecenas rhoncus aliquam lacus.,true
+137,2017,1,22,false,1,5,2,2,4,3,Nulla ac enim.,false
+138,2017,4,39,false,3,5,5,1,10,0,Nam tristique tortor eu pede.,true
+139,2020,2,17,false,3,3,5,2,10,3,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",false
+140,2017,1,26,false,4,2,2,3,7,5,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,false
+141,2019,2,43,false,5,4,3,1,1,0,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",false
+142,2020,1,23,true,2,6,3,2,3,0,In eleifend quam a odio.,false
+143,2020,3,40,false,3,1,3,1,3,0,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",true
+144,2021,1,31,true,3,1,6,2,9,4,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,false
+145,2020,2,13,true,2,3,5,3,4,5,Suspendisse ornare consequat lectus.,true
+146,2022,4,34,false,4,1,1,3,2,4,Nunc purus. Phasellus in felis.,true
+147,2023,3,21,false,5,3,4,2,5,0,Pellentesque viverra pede ac diam.,false
+148,2017,2,37,true,3,1,3,1,9,2,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",true
+149,2022,3,13,true,3,2,3,1,5,3,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",false
+150,2017,4,15,true,2,4,4,1,4,0,Aliquam quis turpis eget elit sodales scelerisque.,true
+151,2022,3,42,true,4,6,7,2,7,1,"Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",true
+152,2020,3,22,false,1,2,1,2,1,4,Vivamus tortor.,false
+153,2020,1,19,true,5,5,3,2,3,2,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",true
+154,2017,3,27,false,1,6,1,3,8,3,Vivamus in felis eu sapien cursus vestibulum.,false
+155,2020,1,22,false,5,6,6,2,6,4,Aliquam non mauris. Morbi non lectus.,true
+156,2020,1,13,false,1,1,7,2,8,3,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,true
+157,2020,3,36,true,1,4,6,1,10,0,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,true
+158,2019,4,49,true,5,3,2,1,5,1,In sagittis dui vel nisl. Duis ac nibh.,true
+159,2020,4,50,false,1,6,7,1,5,2,Etiam faucibus cursus urna. Ut tellus.,true
+160,2023,1,44,true,2,5,2,1,6,5,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,true
+161,2017,4,31,false,1,6,7,2,4,0,Etiam faucibus cursus urna. Ut tellus.,false
+162,2019,1,29,true,2,3,6,2,5,0,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",true
+163,2017,3,20,false,3,3,7,2,2,2,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",true
+164,2023,2,14,false,1,3,2,2,4,2,Maecenas pulvinar lobortis est. Phasellus sit amet erat.,false
+165,2023,1,50,true,5,1,3,2,10,0,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",false
+166,2023,2,16,false,1,1,4,3,9,0,Morbi ut odio.,true
+167,2019,2,15,true,1,6,6,2,3,3,Mauris sit amet eros.,true
+168,2021,1,32,false,1,1,6,3,5,1,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,true
+169,2023,4,23,true,1,5,4,3,1,1,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",true
+170,2021,1,28,false,4,1,7,1,7,0,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",true
+171,2017,2,24,true,2,6,1,1,5,2,Morbi non quam nec dui luctus rutrum. Nulla tellus.,true
+172,2020,4,30,true,3,6,4,2,9,0,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",false
+173,2020,4,34,true,3,6,6,3,8,3,Integer ac neque.,true
+174,2019,1,22,false,2,2,4,3,1,1,Phasellus id sapien in sapien iaculis congue.,true
+175,2017,3,13,false,3,2,5,1,1,1,Vivamus vel nulla eget eros elementum pellentesque.,false
+176,2021,3,19,false,3,5,6,2,7,0,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",false
+177,2017,3,40,true,3,2,1,1,5,4,In sagittis dui vel nisl. Duis ac nibh.,true
+178,2020,1,39,true,5,5,1,1,8,4,Nunc purus. Phasellus in felis.,false
+179,2017,4,46,true,2,4,1,1,2,4,Phasellus sit amet erat.,true
+180,2020,2,28,true,2,6,1,2,8,2,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,false
+181,2018,2,33,false,3,1,1,1,1,0,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",true
+182,2022,2,23,true,2,6,7,2,3,0,Sed ante. Vivamus tortor.,true
+183,2019,1,47,false,3,4,4,3,6,5,In hac habitasse platea dictumst.,false
+184,2021,3,23,false,4,5,3,3,2,4,Duis mattis egestas metus.,false
+185,2019,3,34,true,2,1,3,3,7,4,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,false
+186,2020,4,49,true,5,3,4,1,8,4,Nulla mollis molestie lorem.,true
+187,2022,3,30,false,2,5,7,1,7,1,Suspendisse potenti. In eleifend quam a odio.,false
+188,2017,3,36,false,1,3,4,1,1,5,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,true
+189,2021,3,22,true,3,6,6,1,7,3,Nulla mollis molestie lorem. Quisque ut erat.,false
+190,2021,3,36,false,5,5,2,3,3,0,Vivamus vel nulla eget eros elementum pellentesque.,true
+191,2017,2,24,false,5,4,7,2,7,2,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",false
+192,2019,1,49,false,2,4,2,3,4,3,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",false
+193,2017,1,18,false,2,4,7,3,6,3,Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.,false
+194,2019,1,13,false,3,1,7,3,5,0,Vivamus in felis eu sapien cursus vestibulum.,true
+195,2021,1,33,false,1,1,7,2,7,5,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",false
+196,2022,3,48,false,4,5,4,2,10,3,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",false
+197,2019,3,44,true,1,4,1,1,1,4,Vivamus tortor.,true
+198,2022,2,16,true,4,2,5,3,3,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",false
+199,2020,4,35,false,2,2,6,1,6,2,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",true
+200,2021,4,35,true,3,1,1,2,1,5,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",false
+201,2017,3,36,true,1,2,6,1,1,5,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",false
+202,2022,1,32,false,3,5,6,3,6,2,"Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",false
+203,2022,3,29,false,3,1,1,2,1,1,Vestibulum sed magna at nunc commodo placerat.,true
+204,2021,1,26,false,4,3,3,1,7,3,In congue. Etiam justo.,false
+205,2022,1,13,false,2,6,2,1,2,2,Vivamus in felis eu sapien cursus vestibulum.,false
+206,2019,3,39,true,1,5,1,1,8,5,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,true
+207,2023,3,44,false,4,5,2,1,8,0,Morbi a ipsum. Integer a nibh.,true
+208,2020,3,40,true,4,5,5,1,10,4,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,false
+209,2020,1,14,false,1,1,3,3,8,3,Pellentesque at nulla. Suspendisse potenti.,true
+210,2018,4,36,false,4,2,5,2,9,0,Nunc purus. Phasellus in felis.,false
+211,2020,1,44,true,1,3,6,1,8,1,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,true
+212,2020,2,39,true,1,3,2,2,3,0,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,true
+213,2019,3,14,false,4,4,5,2,8,3,Aliquam non mauris. Morbi non lectus.,true
+214,2021,3,43,true,4,6,7,1,8,4,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,false
+215,2021,1,42,false,2,4,3,3,2,4,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,true
+216,2019,1,23,true,2,5,6,2,5,2,Suspendisse accumsan tortor quis turpis.,true
+217,2018,2,17,false,1,5,7,3,8,0,Cras in purus eu magna vulputate luctus.,false
+218,2019,2,25,false,4,6,5,2,1,5,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",false
+219,2022,1,31,true,1,4,7,2,10,5,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,false
+220,2019,2,42,false,3,5,4,3,9,0,Mauris ullamcorper purus sit amet nulla.,false
+221,2022,1,43,false,5,4,2,1,1,1,Quisque id justo sit amet sapien dignissim vestibulum.,true
+222,2023,3,39,false,2,6,5,2,6,1,Ut at dolor quis odio consequat varius. Integer ac leo.,true
+223,2021,1,42,false,3,3,1,3,10,3,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",false
+224,2017,3,42,true,5,3,1,1,2,2,Nulla ut erat id mauris vulputate elementum. Nullam varius.,false
+225,2019,1,39,false,1,6,4,1,6,4,Pellentesque ultrices mattis odio. Donec vitae nisi.,false
+226,2022,3,17,true,1,6,6,1,5,0,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,true
+227,2022,4,42,true,4,2,1,3,3,1,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",true
+228,2021,1,17,true,5,6,1,2,8,0,Integer ac neque. Duis bibendum.,false
+229,2023,2,41,false,4,2,1,3,8,1,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,true
+230,2022,1,20,true,1,3,1,2,4,5,Aenean auctor gravida sem.,true
+231,2019,2,20,false,2,1,5,1,4,0,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",false
+232,2018,1,17,false,5,5,6,3,5,4,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",false
+233,2022,2,38,false,3,1,4,1,8,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",false
+234,2020,2,20,true,2,3,1,1,7,5,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,true
+235,2021,1,44,false,1,6,6,1,3,0,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",false
+236,2021,4,27,false,5,3,6,2,6,0,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,false
+237,2023,2,37,true,1,6,5,1,8,0,Maecenas rhoncus aliquam lacus.,false
+238,2019,2,27,true,4,5,5,2,10,2,Mauris ullamcorper purus sit amet nulla.,true
+239,2020,2,34,true,3,1,7,2,8,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",false
+240,2019,1,50,false,2,5,4,3,8,1,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",true
+241,2021,1,36,false,4,3,6,2,4,3,Nulla tellus. In sagittis dui vel nisl.,false
+242,2020,1,35,false,3,2,5,3,9,3,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,false
+243,2018,3,20,false,3,1,4,1,6,3,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",false
+244,2022,3,50,false,1,6,1,1,10,2,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,false
+245,2022,2,45,false,4,3,2,1,2,3,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,false
+246,2020,2,41,false,5,2,3,3,7,5,Duis bibendum. Morbi non quam nec dui luctus rutrum.,false
+247,2020,3,24,true,4,4,4,2,5,1,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",false
+248,2020,2,16,false,5,5,6,3,3,2,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,false
+249,2023,3,18,false,3,1,6,1,10,4,Mauris sit amet eros.,true
+250,2018,3,16,false,3,2,6,3,4,5,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",true
+251,2020,3,18,false,5,1,1,3,2,5,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",true
+252,2021,4,37,false,3,5,6,3,3,1,Curabitur convallis.,true
+253,2020,3,32,false,5,3,3,1,5,1,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",true
+254,2022,4,46,true,2,6,1,3,4,5,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,false
+255,2021,4,44,false,3,2,5,1,1,2,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,true
+256,2018,3,40,false,4,1,3,3,1,1,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,true
+257,2023,2,18,true,4,4,2,2,6,1,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",true
+258,2021,4,23,true,2,4,2,3,4,2,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,true
+259,2023,1,32,true,4,3,1,3,6,3,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,true
+260,2017,1,20,true,5,3,3,1,6,4,Cras non velit nec nisi vulputate nonummy.,false
+261,2018,1,48,false,1,3,3,1,8,5,Proin eu mi.,true
+262,2018,4,13,false,3,2,7,2,3,0,Quisque porta volutpat erat.,false
+263,2017,4,48,false,5,1,3,2,1,3,Suspendisse potenti.,false
+264,2021,4,36,false,2,5,7,1,1,3,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,false
+265,2022,4,28,false,3,3,6,1,5,2,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",false
+266,2019,4,37,false,5,4,6,1,8,2,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",true
+267,2019,2,28,false,1,4,2,2,9,2,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",false
+268,2022,1,42,false,2,1,7,3,1,0,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",true
+269,2023,2,46,false,5,5,5,2,10,1,Mauris ullamcorper purus sit amet nulla.,false
+270,2022,1,45,false,2,6,1,3,2,4,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,true
+271,2020,3,17,false,1,4,2,1,9,5,In congue. Etiam justo.,true
+272,2023,4,33,false,4,6,2,2,7,1,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",false
+273,2020,3,48,true,2,6,7,2,1,4,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",false
+274,2021,1,28,false,4,4,4,2,10,4,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",false
+275,2019,1,29,false,5,2,2,3,5,1,Nulla mollis molestie lorem.,true
+276,2019,1,41,false,3,2,5,3,6,3,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,false
+277,2020,3,41,false,4,4,7,1,1,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",true
+278,2018,1,23,false,1,1,1,2,8,4,Duis bibendum. Morbi non quam nec dui luctus rutrum.,false
+279,2017,4,47,false,4,6,4,2,3,5,Donec semper sapien a libero. Nam dui.,true
+280,2020,3,35,false,4,1,4,1,4,0,Donec dapibus. Duis at velit eu est congue elementum.,true
+281,2022,1,50,false,1,6,5,1,7,3,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",false
+282,2020,2,42,false,1,2,1,3,4,3,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",false
+283,2017,1,29,false,5,3,2,3,4,3,Quisque ut erat. Curabitur gravida nisi at nibh.,true
+284,2019,4,40,false,5,2,7,2,2,1,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",true
+285,2017,2,41,false,2,3,5,1,7,0,Donec dapibus. Duis at velit eu est congue elementum.,true
+286,2021,3,17,true,1,4,6,3,7,4,Ut tellus. Nulla ut erat id mauris vulputate elementum.,true
+287,2022,1,18,true,2,3,2,3,1,2,Aenean lectus. Pellentesque eget nunc.,false
+288,2021,1,25,false,1,6,4,2,3,0,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,true
+289,2023,4,22,true,1,4,2,3,2,2,Nunc purus.,false
+290,2020,3,48,false,3,5,7,2,8,1,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",false
+291,2021,3,14,true,2,3,3,1,5,2,Donec ut mauris eget massa tempor convallis.,true
+292,2021,4,41,true,2,4,1,2,10,3,Donec semper sapien a libero. Nam dui.,true
+293,2023,3,23,true,2,1,2,1,10,2,Maecenas ut massa quis augue luctus tincidunt.,false
+294,2019,4,49,true,5,5,4,1,1,3,Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.,false
+295,2022,1,13,true,2,2,7,2,3,1,Proin interdum mauris non ligula pellentesque ultrices.,true
+296,2019,2,46,false,5,4,6,3,4,4,Vivamus in felis eu sapien cursus vestibulum.,true
+297,2019,3,50,false,1,6,5,1,5,5,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",false
+298,2022,2,22,false,4,4,7,3,5,0,Donec dapibus.,false
+299,2021,2,38,false,2,6,6,1,10,2,Aenean sit amet justo.,false
+300,2022,2,36,true,3,5,7,2,7,4,In hac habitasse platea dictumst.,false
+301,2017,3,34,true,1,5,6,3,3,4,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",false
+302,2022,3,14,true,1,2,3,2,3,5,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,false
+303,2021,4,39,true,3,6,6,3,6,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",false
+304,2021,4,42,false,4,5,3,2,3,2,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",true
+305,2020,2,45,true,1,4,7,2,6,3,Suspendisse potenti.,false
+306,2022,1,18,false,5,3,3,3,9,0,Praesent blandit.,false
+307,2023,3,42,false,3,3,2,1,5,3,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,false
+308,2023,1,40,false,4,4,4,1,1,0,Nulla tellus. In sagittis dui vel nisl.,false
+309,2021,4,30,true,3,5,2,1,9,2,Ut tellus.,false
+310,2017,2,40,true,5,6,7,1,4,2,Praesent blandit.,false
+311,2018,3,33,false,4,1,4,3,4,5,Pellentesque ultrices mattis odio.,false
+312,2021,1,50,true,1,3,2,2,10,5,Vestibulum sed magna at nunc commodo placerat.,false
+313,2019,2,39,false,3,4,3,3,1,5,Quisque ut erat.,true
+314,2023,1,26,false,2,1,2,2,1,5,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",false
+315,2021,2,20,true,3,1,6,2,3,5,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,true
+316,2022,2,28,false,5,3,7,1,8,1,Phasellus sit amet erat.,true
+317,2018,3,35,true,3,4,6,2,5,1,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",false
+318,2020,1,33,false,3,6,6,2,2,5,Nulla facilisi.,true
+319,2021,3,29,false,2,6,4,1,1,1,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,false
+320,2023,2,28,false,2,3,5,1,8,2,Nunc rhoncus dui vel sem. Sed sagittis.,false
+321,2019,1,15,false,1,4,1,1,9,1,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",true
+322,2020,4,49,true,4,2,3,2,5,2,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",false
+323,2018,3,41,false,5,2,6,3,9,5,Duis at velit eu est congue elementum.,true
+324,2018,2,27,false,3,5,1,2,6,4,Maecenas tincidunt lacus at velit.,true
+325,2018,1,14,true,1,2,7,3,5,0,Vestibulum ac est lacinia nisi venenatis tristique.,true
+326,2020,1,31,false,3,3,3,1,2,1,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,true
+327,2021,3,29,true,2,1,4,2,6,5,Duis bibendum. Morbi non quam nec dui luctus rutrum.,true
+328,2021,2,27,true,2,5,2,2,3,1,Etiam justo.,true
+329,2022,4,19,false,3,4,6,1,3,3,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",false
+330,2017,2,29,true,3,3,4,3,5,4,Curabitur at ipsum ac tellus semper interdum.,true
+331,2017,2,43,false,4,6,6,1,2,3,Ut at dolor quis odio consequat varius. Integer ac leo.,false
+332,2019,2,14,false,5,3,5,1,4,2,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,false
+333,2021,3,42,false,4,4,3,2,3,1,Morbi a ipsum. Integer a nibh.,false
+334,2021,1,17,true,1,1,1,2,7,3,Curabitur gravida nisi at nibh.,false
+335,2017,4,18,false,5,1,7,3,8,2,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",false
+336,2017,4,43,false,5,5,6,3,5,1,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",true
+337,2018,2,32,true,1,4,3,3,8,5,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,false
+338,2020,4,38,true,3,3,3,1,2,2,In blandit ultrices enim.,true
+339,2018,1,49,true,4,6,5,1,3,0,Proin eu mi.,true
+340,2020,3,29,false,2,5,1,1,4,0,In hac habitasse platea dictumst.,true
+341,2020,1,38,true,1,6,3,3,4,5,Proin at turpis a pede posuere nonummy.,false
+342,2023,1,19,false,5,4,6,3,5,0,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,true
+343,2023,4,33,true,3,1,7,3,6,4,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,true
+344,2018,2,47,false,3,2,6,1,3,1,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",false
+345,2017,4,17,false,2,4,4,3,3,5,Curabitur in libero ut massa volutpat convallis.,true
+346,2019,1,50,false,3,1,7,1,4,0,Proin risus. Praesent lectus.,true
+347,2019,1,17,true,5,3,5,2,3,1,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",false
+348,2018,2,22,false,3,6,3,3,1,4,Nulla facilisi.,true
+349,2021,4,44,true,5,6,6,1,10,1,Nullam molestie nibh in lectus. Pellentesque at nulla.,false
+350,2021,4,24,true,5,4,1,2,10,1,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,false
+351,2017,2,23,true,3,3,5,3,1,4,Aliquam erat volutpat.,false
+352,2021,2,41,true,2,5,5,3,2,3,Quisque id justo sit amet sapien dignissim vestibulum.,true
+353,2022,4,40,true,5,1,5,2,10,1,Sed ante. Vivamus tortor.,false
+354,2017,1,31,false,2,2,4,2,10,0,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",true
+355,2019,4,26,true,1,5,5,2,4,4,Praesent blandit.,true
+356,2017,2,47,false,1,4,7,1,3,2,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",false
+357,2021,1,20,true,3,4,4,3,3,3,Proin risus.,true
+358,2019,2,37,false,2,6,2,2,6,4,Donec posuere metus vitae ipsum. Aliquam non mauris.,true
+359,2019,2,41,true,4,6,6,2,5,3,Suspendisse potenti. Nullam porttitor lacus at turpis.,true
+360,2021,4,45,false,3,6,1,2,1,4,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",true
+361,2018,4,30,true,3,1,2,3,9,0,Donec posuere metus vitae ipsum.,true
+362,2021,2,39,true,5,4,5,1,4,4,Etiam faucibus cursus urna.,true
+363,2019,2,21,false,4,1,1,3,7,1,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",true
+364,2020,2,21,false,2,2,3,2,10,1,Vivamus vestibulum sagittis sapien.,false
+365,2017,4,34,false,3,6,7,1,5,2,Morbi non quam nec dui luctus rutrum. Nulla tellus.,true
+366,2022,4,38,false,1,1,7,3,1,1,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",false
+367,2021,2,26,true,5,4,3,1,3,0,"Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",false
+368,2023,2,25,false,5,4,5,2,3,4,Proin risus. Praesent lectus.,false
+369,2020,4,50,true,2,5,4,3,7,5,Morbi non lectus.,true
+370,2018,1,27,true,4,1,4,2,5,0,Ut tellus.,true
+371,2019,1,17,false,1,2,7,3,10,3,In congue. Etiam justo.,false
+372,2020,3,13,false,2,5,7,2,7,1,Nullam porttitor lacus at turpis.,true
+373,2019,1,13,false,3,4,6,1,4,3,In blandit ultrices enim.,false
+374,2019,1,23,false,2,5,7,1,8,3,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",false
+375,2022,3,14,true,1,4,6,3,3,3,Cras in purus eu magna vulputate luctus.,false
+376,2022,3,46,true,1,5,5,2,7,0,Nulla nisl. Nunc nisl.,true
+377,2020,3,20,false,1,1,7,1,7,0,Sed accumsan felis.,false
+378,2023,4,47,true,4,3,2,1,5,5,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,true
+379,2020,2,27,true,2,6,7,3,1,4,Praesent lectus.,true
+380,2023,1,35,false,5,5,2,2,5,0,Nulla ut erat id mauris vulputate elementum. Nullam varius.,false
+381,2017,4,46,true,2,4,3,2,2,2,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",true
+382,2022,1,30,true,3,4,4,3,1,2,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",true
+383,2021,1,32,false,4,6,7,1,9,0,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",false
+384,2018,1,50,false,1,3,3,3,7,1,Phasellus sit amet erat.,false
+385,2021,1,24,false,2,5,4,1,6,5,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",false
+386,2021,4,34,true,4,6,1,3,7,0,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",false
+387,2022,4,42,false,1,5,6,3,7,0,Suspendisse potenti. In eleifend quam a odio.,true
+388,2017,1,47,false,5,5,1,2,9,0,Donec posuere metus vitae ipsum. Aliquam non mauris.,true
+389,2017,1,21,false,4,4,5,2,1,0,Duis mattis egestas metus.,true
+390,2020,2,43,true,5,6,4,2,5,5,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",true
+391,2017,1,16,false,4,6,1,1,3,1,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",false
+392,2019,1,30,false,4,5,5,3,10,4,Nulla tellus.,false
+393,2023,3,44,false,2,5,3,1,7,3,Integer ac leo.,true
+394,2023,3,22,false,1,5,3,3,4,3,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",true
+395,2018,3,38,true,5,4,6,3,5,5,Donec semper sapien a libero.,true
+396,2023,4,15,false,4,1,3,1,9,2,Nulla facilisi.,false
+397,2023,3,26,true,1,1,3,1,5,1,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",false
+398,2023,2,17,false,2,6,2,1,10,2,Suspendisse ornare consequat lectus.,false
+399,2023,4,19,true,3,5,2,1,4,5,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",true
+400,2018,3,15,true,3,1,7,3,3,4,Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,false
+401,2022,1,50,true,5,2,2,3,8,5,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,false
+402,2022,4,28,true,1,4,3,3,1,2,Suspendisse potenti. Nullam porttitor lacus at turpis.,true
+403,2019,2,36,true,2,5,6,1,1,4,Praesent lectus.,false
+404,2017,1,43,true,2,5,6,3,1,4,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,false
+405,2020,1,43,true,4,4,6,2,6,1,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,false
+406,2020,4,49,true,2,4,4,1,7,0,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",true
+407,2022,2,13,false,3,2,4,3,1,5,Suspendisse accumsan tortor quis turpis. Sed ante.,false
+408,2021,3,26,false,4,5,7,1,9,3,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",true
+409,2018,3,19,false,4,6,3,1,3,3,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,true
+410,2020,4,42,true,4,6,4,3,10,5,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,false
+411,2019,4,22,false,4,5,1,1,4,3,Maecenas ut massa quis augue luctus tincidunt.,false
+412,2021,1,15,true,5,1,1,2,8,0,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",true
+413,2019,3,25,false,5,3,4,3,8,4,Proin at turpis a pede posuere nonummy.,false
+414,2018,2,49,true,5,1,7,2,6,5,Nulla justo.,true
+415,2020,1,28,true,5,6,6,1,2,2,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,false
+416,2018,2,43,false,1,6,4,3,2,3,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",false
+417,2021,4,15,false,4,2,3,2,10,4,Quisque ut erat.,false
+418,2022,2,32,true,3,2,1,3,1,2,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",false
+419,2018,4,46,true,3,5,4,3,6,5,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",false
+420,2021,2,32,false,5,4,7,3,2,2,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",false
+421,2020,2,42,false,3,1,3,2,6,2,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,false
+422,2017,2,27,false,4,5,2,2,2,0,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",true
+423,2023,4,38,true,5,5,6,2,1,4,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",true
+424,2022,1,22,false,5,5,7,2,3,4,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",false
+425,2019,2,37,false,5,5,1,2,4,0,Nullam varius.,true
+426,2020,1,33,true,2,3,6,3,6,0,Maecenas ut massa quis augue luctus tincidunt.,false
+427,2019,4,33,false,3,6,7,3,3,3,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",true
+428,2023,2,40,true,3,5,7,1,1,5,Pellentesque eget nunc.,false
+429,2017,4,29,false,4,5,7,2,5,5,Vestibulum rutrum rutrum neque.,false
+430,2017,4,21,true,5,2,2,1,9,3,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",true
+431,2020,1,39,false,4,6,5,1,10,4,Donec ut dolor.,true
+432,2021,1,45,true,4,1,2,1,7,0,Sed sagittis.,false
+433,2019,3,35,true,3,4,7,1,8,5,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",true
+434,2018,4,20,false,3,3,7,3,1,3,Nulla tellus.,true
+435,2022,4,24,true,1,6,1,1,5,0,Integer non velit.,true
+436,2023,2,20,true,3,6,3,1,6,5,Duis aliquam convallis nunc.,true
+437,2017,1,14,true,2,5,4,3,5,5,In quis justo. Maecenas rhoncus aliquam lacus.,true
+438,2021,1,28,false,3,1,7,3,5,1,Suspendisse ornare consequat lectus.,true
+439,2019,3,30,true,5,3,4,3,6,5,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,true
+440,2020,4,37,true,2,3,1,2,7,2,Praesent lectus.,true
+441,2023,2,30,false,2,2,7,1,4,4,Nulla mollis molestie lorem.,true
+442,2018,2,43,true,5,5,3,3,6,2,Curabitur in libero ut massa volutpat convallis.,false
+443,2017,1,49,true,5,2,4,2,7,5,Quisque ut erat.,false
+444,2022,2,13,false,4,4,5,2,2,4,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",true
+445,2020,4,26,false,1,4,4,1,7,5,Phasellus sit amet erat. Nulla tempus.,false
+446,2019,3,14,false,5,2,6,2,7,3,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,false
+447,2023,4,23,true,4,5,3,3,2,5,Maecenas rhoncus aliquam lacus.,false
+448,2020,2,45,true,5,1,3,1,6,0,Curabitur gravida nisi at nibh.,true
+449,2020,2,18,true,4,6,7,3,4,2,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",true
+450,2018,3,47,false,3,1,7,1,6,5,Morbi vel lectus in quam fringilla rhoncus.,true
+451,2020,2,26,false,2,4,3,2,10,3,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",false
+452,2019,3,45,true,1,4,6,1,3,5,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",true
+453,2021,2,49,true,4,5,6,1,4,5,Praesent blandit. Nam nulla.,false
+454,2018,1,50,false,2,2,7,3,4,3,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",true
+455,2023,2,47,false,3,1,5,1,7,2,Duis consequat dui nec nisi volutpat eleifend.,true
+456,2019,3,45,false,3,4,5,1,6,1,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,true
+457,2018,1,36,false,5,1,3,1,1,1,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",false
+458,2019,2,19,true,1,5,2,2,10,3,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,false
+459,2017,4,29,false,2,2,3,1,3,1,Curabitur gravida nisi at nibh.,false
+460,2023,3,24,true,3,6,3,2,1,0,Aliquam non mauris.,false
+461,2021,4,34,false,1,1,5,1,8,2,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,false
+462,2020,2,20,false,5,5,2,1,2,2,Nullam molestie nibh in lectus. Pellentesque at nulla.,true
+463,2017,3,27,false,4,6,4,2,10,2,Praesent lectus.,false
+464,2020,1,36,false,1,3,7,2,9,2,Nunc rhoncus dui vel sem.,false
+465,2019,1,46,false,2,4,6,2,7,2,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,false
+466,2017,4,47,false,1,4,7,2,5,2,Nullam molestie nibh in lectus. Pellentesque at nulla.,false
+467,2022,2,15,true,5,5,7,1,8,2,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,false
+468,2018,1,46,false,2,3,4,3,8,0,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,false
+469,2018,4,19,false,1,6,4,3,1,4,Morbi a ipsum.,true
+470,2023,3,44,false,4,2,6,2,4,5,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,true
+471,2021,3,21,true,3,1,2,3,9,5,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",false
+472,2019,3,24,true,5,3,1,3,4,0,Nulla facilisi.,false
+473,2021,3,24,false,1,3,3,2,9,0,Sed ante.,true
+474,2023,4,45,true,2,4,3,3,1,0,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",true
+475,2023,4,29,false,3,4,7,3,8,4,Vivamus tortor. Duis mattis egestas metus.,false
+476,2018,3,22,false,1,2,3,2,8,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",true
+477,2019,1,33,false,4,2,5,2,3,3,Aliquam sit amet diam in magna bibendum imperdiet.,false
+478,2023,1,28,false,4,4,1,3,2,4,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",true
+479,2019,2,13,false,5,5,1,2,2,0,Aenean sit amet justo. Morbi ut odio.,true
+480,2020,1,22,true,1,5,2,1,10,3,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,true
+481,2022,3,43,false,2,2,1,3,1,4,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,false
+482,2023,3,33,true,5,2,1,3,4,5,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,false
+483,2019,2,44,false,2,6,2,2,8,5,Morbi non quam nec dui luctus rutrum. Nulla tellus.,true
+484,2021,3,46,false,1,4,4,3,4,0,Etiam faucibus cursus urna. Ut tellus.,true
+485,2023,3,29,false,1,5,1,2,3,5,Suspendisse potenti.,true
+486,2017,1,32,false,3,3,1,3,10,5,Integer a nibh. In quis justo.,false
+487,2019,2,45,false,5,5,5,2,7,1,Nulla mollis molestie lorem.,false
+488,2018,3,25,false,3,6,5,2,9,2,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,false
+489,2017,1,33,true,5,2,5,1,6,2,Nulla tempus.,true
+490,2023,2,24,true,3,4,6,2,3,4,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,false
+491,2021,1,21,false,1,4,4,2,2,5,Nunc rhoncus dui vel sem. Sed sagittis.,true
+492,2019,1,42,true,4,4,5,2,9,4,Sed vel enim sit amet nunc viverra dapibus.,true
+493,2022,3,14,true,5,6,2,1,6,0,Maecenas tincidunt lacus at velit.,false
+494,2018,3,17,true,4,6,1,3,10,3,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,false
+495,2022,2,29,false,5,4,6,2,6,2,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,false
+496,2020,3,46,false,5,6,2,3,9,5,Pellentesque at nulla.,false
+497,2017,3,16,false,4,1,5,2,7,0,Ut tellus. Nulla ut erat id mauris vulputate elementum.,false
+498,2018,2,17,true,2,1,1,3,3,3,Morbi non quam nec dui luctus rutrum.,false
+499,2022,4,25,true,1,1,5,1,10,0,Cras pellentesque volutpat dui.,false
+500,2021,3,40,true,2,2,5,1,7,3,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,true
+501,2018,3,36,true,4,3,5,1,7,4,Integer a nibh. In quis justo.,true
+502,2017,4,32,true,3,3,5,3,6,1,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",false
+503,2018,2,23,true,5,1,6,1,1,3,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",true
+504,2019,4,18,false,2,2,6,1,1,0,Duis ac nibh.,false
+505,2021,3,27,true,3,2,2,2,10,2,Etiam faucibus cursus urna. Ut tellus.,true
+506,2020,4,50,false,4,2,7,3,10,1,Pellentesque ultrices mattis odio. Donec vitae nisi.,false
+507,2020,3,45,false,5,4,1,2,7,5,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",false
+508,2019,4,35,true,4,6,5,2,7,0,In hac habitasse platea dictumst.,false
+509,2023,2,34,true,5,4,5,2,2,0,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",false
+510,2023,1,38,true,4,2,3,2,6,1,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,false
+511,2020,2,27,true,5,6,6,2,1,3,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",true
+512,2021,3,45,false,3,1,6,1,3,1,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",true
+513,2019,4,19,false,4,1,1,2,3,5,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",false
+514,2018,2,49,false,2,6,1,1,2,2,Donec semper sapien a libero.,false
+515,2022,2,36,true,3,3,1,1,4,3,Suspendisse accumsan tortor quis turpis. Sed ante.,false
+516,2023,4,34,true,5,6,1,3,9,2,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",true
+517,2021,2,29,false,5,1,5,1,7,4,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",false
+518,2019,2,49,true,1,2,3,1,3,4,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,true
+519,2020,3,14,true,5,4,2,2,6,5,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,false
+520,2018,1,44,false,4,3,3,3,5,2,Aenean lectus.,false
+521,2020,2,29,true,2,6,2,3,8,3,Proin interdum mauris non ligula pellentesque ultrices.,false
+522,2018,2,26,true,1,2,7,1,2,3,Proin risus.,true
+523,2019,2,35,false,3,3,3,2,3,4,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,false
+524,2023,3,23,true,4,1,6,1,6,2,Aliquam non mauris.,false
+525,2019,3,17,false,4,5,2,1,2,2,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,true
+526,2023,1,20,true,5,3,3,3,7,0,Donec ut mauris eget massa tempor convallis.,false
+527,2019,4,27,false,4,4,5,2,9,4,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",true
+528,2019,4,26,false,1,2,3,1,8,3,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,true
+529,2019,4,35,false,4,4,7,2,9,1,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",true
+530,2020,2,17,true,2,6,2,3,4,3,Ut tellus.,false
+531,2023,4,23,true,5,6,4,2,5,1,Ut tellus.,false
+532,2020,3,45,true,4,1,1,1,5,3,Donec ut dolor.,false
+533,2019,3,28,false,4,6,1,2,10,5,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",true
+534,2021,4,13,false,1,5,4,2,9,4,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,false
+535,2020,4,24,false,5,3,3,1,6,4,Phasellus sit amet erat. Nulla tempus.,false
+536,2018,3,49,true,5,3,6,1,1,0,Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.,true
+537,2017,1,36,false,3,3,2,1,10,2,Morbi porttitor lorem id ligula.,false
+538,2023,2,46,false,1,4,3,2,10,0,Vivamus vestibulum sagittis sapien.,true
+539,2021,2,48,true,3,5,6,3,4,5,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",true
+540,2021,3,30,true,5,1,4,1,8,4,In blandit ultrices enim.,false
+541,2017,4,17,true,4,2,1,1,4,3,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,false
+542,2021,1,23,false,3,1,1,2,9,5,Nulla tellus. In sagittis dui vel nisl.,true
+543,2021,2,42,false,4,5,7,2,5,4,Maecenas pulvinar lobortis est.,false
+544,2020,2,36,false,2,1,4,1,3,0,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",true
+545,2017,1,28,true,1,5,5,2,3,5,Donec vitae nisi.,false
+546,2018,2,30,false,3,2,4,3,5,0,Donec ut mauris eget massa tempor convallis.,false
+547,2019,2,39,false,1,5,7,2,3,1,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,true
+548,2020,4,17,false,4,6,2,1,10,2,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,true
+549,2021,4,30,false,5,5,7,3,9,1,Vivamus tortor. Duis mattis egestas metus.,false
+550,2017,3,35,true,5,3,7,3,1,5,Sed vel enim sit amet nunc viverra dapibus.,false
+551,2019,3,43,false,1,3,2,3,10,4,Cras in purus eu magna vulputate luctus.,false
+552,2019,1,26,false,4,1,5,3,9,1,Ut tellus. Nulla ut erat id mauris vulputate elementum.,true
+553,2019,3,19,true,5,4,7,2,1,4,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",false
+554,2019,4,50,true,5,6,7,2,8,5,Donec semper sapien a libero.,true
+555,2018,3,34,false,4,3,1,3,4,1,Etiam vel augue.,false
+556,2018,3,24,false,4,6,6,2,1,3,Praesent lectus.,true
+557,2020,2,40,true,1,6,2,1,7,0,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,true
+558,2020,1,30,true,4,1,1,1,4,3,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,true
+559,2021,4,14,false,5,1,6,2,9,0,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,true
+560,2021,1,34,false,2,5,1,3,8,3,Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,false
+561,2019,3,29,false,4,3,3,1,1,5,Nulla mollis molestie lorem. Quisque ut erat.,true
+562,2022,3,29,false,1,4,5,3,4,4,Etiam faucibus cursus urna. Ut tellus.,true
+563,2021,1,31,true,3,2,5,1,9,1,Vivamus vestibulum sagittis sapien.,false
+564,2017,2,28,true,1,6,5,2,10,1,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",false
+565,2019,4,41,false,1,6,5,2,6,5,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",false
+566,2018,3,43,false,4,3,7,2,4,5,Praesent blandit lacinia erat.,true
+567,2020,1,33,true,4,5,6,3,10,5,Morbi vel lectus in quam fringilla rhoncus.,true
+568,2022,3,29,false,3,1,6,1,5,2,Sed accumsan felis. Ut at dolor quis odio consequat varius.,false
+569,2017,2,17,false,2,5,5,3,5,3,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,true
+570,2022,3,36,true,1,5,7,2,5,5,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,true
+571,2019,2,21,false,1,4,3,2,2,1,Duis consequat dui nec nisi volutpat eleifend.,false
+572,2020,4,24,false,5,6,4,1,1,3,Suspendisse potenti. In eleifend quam a odio.,true
+573,2021,4,50,false,3,3,2,2,8,0,Fusce consequat.,true
+574,2019,1,46,true,1,4,6,1,3,2,Maecenas rhoncus aliquam lacus.,false
+575,2022,3,37,true,2,3,7,2,1,4,Suspendisse ornare consequat lectus.,false
+576,2022,3,44,false,1,4,1,3,1,2,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",false
+577,2021,4,23,true,3,3,1,3,9,1,Aliquam non mauris. Morbi non lectus.,false
+578,2021,1,19,false,5,6,5,2,1,1,Quisque ut erat.,false
+579,2021,3,31,false,5,1,5,1,10,5,Aliquam non mauris. Morbi non lectus.,true
+580,2018,1,35,false,4,2,3,2,10,0,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",true
+581,2018,4,20,true,5,6,6,1,5,4,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,false
+582,2020,4,42,false,1,1,7,3,10,1,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",false
+583,2019,3,34,true,1,4,1,3,2,3,Nulla ac enim.,true
+584,2019,2,17,true,5,6,2,2,4,5,Integer ac neque.,false
+585,2021,4,16,false,5,3,4,3,7,5,Nulla ac enim.,false
+586,2023,2,47,true,2,1,7,3,4,0,Aliquam non mauris.,false
+587,2017,4,47,true,2,2,4,3,10,0,Integer ac neque. Duis bibendum.,false
+588,2020,4,24,false,1,6,3,3,1,2,"Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",false
+589,2023,3,32,true,2,4,4,1,3,0,Suspendisse potenti. Nullam porttitor lacus at turpis.,true
+590,2019,3,31,true,4,5,2,1,9,3,Etiam faucibus cursus urna.,true
+591,2022,1,44,false,4,4,4,3,8,3,Aliquam quis turpis eget elit sodales scelerisque.,true
+592,2019,1,31,false,1,5,3,3,3,5,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",false
+593,2023,1,48,true,1,2,3,2,3,2,Vestibulum rutrum rutrum neque.,false
+594,2023,2,48,true,2,1,1,2,9,2,Nunc purus. Phasellus in felis.,true
+595,2022,1,42,false,5,2,1,3,9,4,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",false
+596,2021,2,37,false,5,5,2,1,1,3,Morbi porttitor lorem id ligula.,false
+597,2019,2,39,true,2,4,5,3,9,5,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",true
+598,2023,3,34,true,1,5,1,3,6,5,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",false
+599,2021,3,28,false,5,4,4,1,6,5,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",true
+600,2021,4,13,true,4,4,4,1,2,2,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",true
+601,2019,2,40,false,1,6,7,2,7,1,Duis bibendum. Morbi non quam nec dui luctus rutrum.,false
+602,2020,2,44,false,1,1,2,3,3,0,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,false
+603,2022,1,45,false,1,2,5,2,1,2,Donec dapibus. Duis at velit eu est congue elementum.,true
+604,2019,3,14,false,3,2,4,3,4,3,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",true
+605,2017,3,39,true,3,6,3,2,6,2,Nam tristique tortor eu pede.,true
+606,2019,2,37,true,5,4,4,3,7,1,Praesent lectus.,false
+607,2023,3,26,true,2,2,4,3,1,0,Integer ac leo. Pellentesque ultrices mattis odio.,false
+608,2017,2,29,false,4,2,5,3,3,5,Etiam pretium iaculis justo. In hac habitasse platea dictumst.,true
+609,2020,3,18,false,3,6,3,1,7,0,Vestibulum rutrum rutrum neque.,false
+610,2017,1,41,true,4,3,4,2,9,0,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,false
+611,2018,2,32,true,2,1,4,2,8,3,Donec vitae nisi.,true
+612,2019,4,20,true,1,6,4,3,9,4,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,false
+613,2020,4,31,true,3,1,5,3,1,3,Morbi quis tortor id nulla ultrices aliquet.,false
+614,2018,3,26,true,3,3,6,2,10,5,Curabitur in libero ut massa volutpat convallis.,false
+615,2017,4,31,true,2,6,4,1,8,3,Vestibulum rutrum rutrum neque.,false
+616,2022,2,45,true,2,2,7,3,2,2,Integer a nibh. In quis justo.,true
+617,2020,3,19,true,2,1,7,1,2,0,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",true
+618,2020,4,22,true,4,1,6,2,7,4,Donec ut dolor.,false
+619,2018,4,38,true,5,6,4,1,6,3,Phasellus id sapien in sapien iaculis congue.,true
+620,2020,1,46,false,5,6,7,1,1,5,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,true
+621,2020,3,22,false,3,6,2,1,2,1,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",false
+622,2018,3,45,false,3,6,7,3,10,0,In sagittis dui vel nisl.,true
+623,2023,2,27,false,1,3,7,1,6,4,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,false
+624,2017,2,25,true,3,1,2,3,4,2,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,false
+625,2023,4,23,true,4,3,6,2,7,3,Etiam pretium iaculis justo.,true
+626,2021,2,30,true,2,1,3,1,7,3,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",false
+627,2018,4,40,true,1,1,5,3,7,1,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",false
+628,2017,3,25,true,2,2,4,1,10,5,In sagittis dui vel nisl. Duis ac nibh.,true
+629,2018,2,45,true,5,3,3,2,5,3,Nullam porttitor lacus at turpis.,true
+630,2020,4,20,true,1,4,4,1,2,1,Nullam varius.,true
+631,2018,1,25,false,5,5,4,3,7,3,Duis mattis egestas metus.,false
+632,2019,3,29,false,3,2,4,3,6,4,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",false
+633,2020,1,25,false,2,2,2,3,3,2,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",true
+634,2019,2,38,true,5,6,5,1,8,1,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",true
+635,2019,4,47,false,1,4,6,2,1,5,Ut at dolor quis odio consequat varius. Integer ac leo.,true
+636,2017,3,32,false,3,1,5,1,8,4,Duis ac nibh.,false
+637,2023,1,23,false,4,2,1,2,7,1,Nunc rhoncus dui vel sem.,true
+638,2023,4,34,true,5,5,7,1,9,3,Nulla tellus.,true
+639,2021,2,26,true,5,2,7,2,9,1,Nulla nisl. Nunc nisl.,true
+640,2021,4,40,true,3,3,6,2,5,3,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",false
+641,2021,3,41,false,2,4,6,1,2,5,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",false
+642,2018,4,26,false,3,1,4,3,5,4,Duis at velit eu est congue elementum.,true
+643,2019,3,26,true,5,1,6,3,7,5,In hac habitasse platea dictumst.,true
+644,2023,1,24,false,1,5,4,3,9,4,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",false
+645,2017,3,17,false,3,3,4,2,7,3,Curabitur in libero ut massa volutpat convallis.,false
+646,2020,4,41,false,5,3,5,2,8,2,Maecenas tincidunt lacus at velit.,true
+647,2019,1,22,true,5,6,2,2,5,2,Cras in purus eu magna vulputate luctus.,false
+648,2018,1,22,false,5,4,4,2,7,5,Praesent blandit lacinia erat.,true
+649,2017,3,50,false,3,5,7,3,3,1,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",false
+650,2021,2,39,false,1,2,1,1,1,2,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",true
+651,2020,4,21,true,5,6,6,1,4,2,Fusce consequat.,false
+652,2023,2,44,true,3,4,3,2,9,5,In hac habitasse platea dictumst.,true
+653,2020,4,40,false,1,5,6,1,2,3,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",true
+654,2020,2,29,true,3,4,1,1,4,3,In hac habitasse platea dictumst.,false
+655,2021,4,37,false,4,1,7,3,4,5,In hac habitasse platea dictumst.,false
+656,2021,3,49,false,1,5,6,2,3,3,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",false
+657,2020,2,37,true,3,2,7,1,8,1,Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.,false
+658,2023,3,35,false,4,5,5,1,3,5,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,true
+659,2018,3,26,true,2,3,1,1,9,3,In hac habitasse platea dictumst.,false
+660,2022,1,22,false,2,4,3,2,3,5,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",true
+661,2018,4,28,true,4,1,4,2,6,4,Morbi a ipsum. Integer a nibh.,true
+662,2021,2,47,true,5,4,1,3,2,3,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",false
+663,2022,4,16,true,2,6,6,1,5,1,In quis justo.,true
+664,2022,3,29,true,5,1,5,3,9,1,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,false
+665,2020,4,47,true,3,4,6,2,5,0,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",true
+666,2021,3,44,false,4,2,6,1,8,5,Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.,true
+667,2023,1,18,false,1,2,6,3,6,4,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,false
+668,2018,4,37,false,4,3,5,3,6,0,Fusce posuere felis sed lacus.,false
+669,2019,4,50,true,5,1,6,2,6,5,Sed accumsan felis. Ut at dolor quis odio consequat varius.,false
+670,2023,2,46,true,5,6,3,3,3,1,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",true
+671,2021,4,20,true,5,1,6,1,8,1,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",true
+672,2018,2,38,true,1,4,2,3,9,3,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,false
+673,2017,1,35,true,2,2,6,2,5,2,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",false
+674,2017,2,18,false,3,6,4,2,1,4,Praesent id massa id nisl venenatis lacinia.,false
+675,2023,4,20,false,4,5,6,1,9,4,Nullam molestie nibh in lectus. Pellentesque at nulla.,true
+676,2017,2,39,false,5,1,1,1,7,5,Nulla nisl. Nunc nisl.,false
+677,2020,4,34,true,5,4,7,3,7,0,Ut tellus.,true
+678,2023,3,15,true,2,6,7,3,5,1,Morbi a ipsum.,true
+679,2019,4,24,false,3,2,1,2,6,4,Etiam justo.,true
+680,2018,2,45,true,3,3,3,2,9,2,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",false
+681,2021,1,45,false,3,3,2,3,9,3,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",true
+682,2022,2,40,true,3,5,3,1,2,2,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,true
+683,2021,3,36,true,1,2,4,1,5,5,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",true
+684,2017,3,20,true,5,6,4,2,8,4,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",false
+685,2023,3,23,true,1,3,1,1,8,0,Duis mattis egestas metus. Aenean fermentum.,false
+686,2019,2,24,false,2,2,6,3,6,4,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,false
+687,2017,3,19,true,5,1,2,1,7,4,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",false
+688,2020,3,17,false,3,6,2,2,1,2,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",true
+689,2023,2,24,true,1,3,5,1,6,2,Pellentesque at nulla. Suspendisse potenti.,true
+690,2023,1,23,false,5,3,6,3,1,0,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",true
+691,2021,1,22,true,3,2,4,2,4,1,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",false
+692,2023,1,19,true,4,2,2,3,1,4,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",false
+693,2021,4,35,true,3,6,4,2,9,2,Ut tellus. Nulla ut erat id mauris vulputate elementum.,false
+694,2018,3,30,false,5,1,1,3,4,4,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,false
+695,2018,3,34,true,4,6,1,3,7,5,Etiam faucibus cursus urna. Ut tellus.,true
+696,2022,3,20,false,2,4,7,1,1,4,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,false
+697,2017,1,42,true,1,4,6,1,4,1,In hac habitasse platea dictumst.,false
+698,2021,3,43,true,3,4,3,3,6,0,Quisque ut erat. Curabitur gravida nisi at nibh.,true
+699,2020,3,34,true,4,4,2,2,2,0,Vivamus vestibulum sagittis sapien.,true
+700,2022,2,27,true,3,1,7,2,7,3,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",true
+701,2020,2,14,true,2,2,1,3,3,3,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",false
+702,2017,4,23,false,4,2,3,3,7,4,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",false
+703,2018,2,49,true,1,4,1,2,7,4,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",true
+704,2020,4,30,true,2,4,6,1,3,5,Sed ante. Vivamus tortor.,true
+705,2023,4,20,true,3,6,1,1,3,4,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,false
+706,2023,2,31,false,5,5,6,1,6,5,Praesent lectus.,false
+707,2022,4,30,true,4,2,2,1,1,3,Mauris lacinia sapien quis libero.,false
+708,2021,3,46,true,1,1,5,1,9,5,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,false
+709,2022,4,27,true,4,5,1,2,5,1,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",true
+710,2023,2,42,true,3,6,1,3,2,5,Pellentesque eget nunc.,false
+711,2018,4,14,true,4,4,1,1,8,0,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",true
+712,2018,2,37,false,2,3,7,3,7,5,Morbi non lectus.,false
+713,2022,1,21,false,4,5,5,3,6,5,Aenean lectus.,false
+714,2018,1,28,false,2,2,6,2,8,1,Cras in purus eu magna vulputate luctus.,false
+715,2018,4,32,true,4,5,5,3,8,4,Vestibulum sed magna at nunc commodo placerat.,false
+716,2017,2,39,true,2,4,4,2,10,4,Phasellus sit amet erat. Nulla tempus.,true
+717,2022,4,31,false,3,1,6,3,1,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",false
+718,2020,4,22,true,2,6,7,1,5,3,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",false
+719,2022,2,37,false,5,2,7,3,3,5,Integer ac neque. Duis bibendum.,false
+720,2020,1,18,false,5,3,6,2,8,4,Vivamus vel nulla eget eros elementum pellentesque.,false
+721,2023,4,23,true,2,1,3,3,4,3,Integer ac neque.,true
+722,2019,1,14,false,5,2,7,1,9,4,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,true
+723,2017,1,27,false,1,3,4,1,6,3,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,false
+724,2018,1,18,false,5,6,4,3,5,1,Duis at velit eu est congue elementum.,false
+725,2022,2,24,false,2,6,7,2,1,1,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,false
+726,2017,4,27,false,3,4,2,1,5,3,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,false
+727,2023,1,21,false,5,4,1,1,7,5,Nulla ac enim.,false
+728,2023,1,15,true,1,5,5,1,5,1,Integer a nibh. In quis justo.,true
+729,2019,1,34,true,1,6,2,3,6,3,Integer a nibh.,true
+730,2023,1,50,false,5,1,7,2,2,1,Aenean fermentum.,false
+731,2019,4,36,false,1,1,1,2,1,2,In quis justo.,true
+732,2022,2,37,false,1,2,7,3,4,5,Curabitur at ipsum ac tellus semper interdum.,true
+733,2019,2,41,true,4,1,2,3,8,0,Curabitur gravida nisi at nibh.,true
+734,2020,1,40,true,2,1,6,1,7,2,Sed accumsan felis. Ut at dolor quis odio consequat varius.,true
+735,2022,1,49,true,3,4,7,3,6,4,Praesent blandit lacinia erat.,true
+736,2017,1,27,true,1,6,6,1,8,2,Praesent id massa id nisl venenatis lacinia.,true
+737,2018,1,42,true,4,2,7,3,1,3,Pellentesque eget nunc.,true
+738,2020,2,16,false,3,5,5,2,6,1,Ut tellus.,true
+739,2019,3,14,false,4,1,5,2,8,4,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",false
+740,2020,1,46,false,2,5,2,2,8,0,Integer a nibh.,false
+741,2017,3,36,true,5,5,3,2,10,5,Morbi non lectus.,true
+742,2019,1,49,true,3,6,4,1,7,3,Nunc rhoncus dui vel sem. Sed sagittis.,false
+743,2023,1,20,false,1,4,3,1,2,0,Curabitur in libero ut massa volutpat convallis.,true
+744,2022,1,35,false,5,4,4,3,10,1,Sed sagittis.,false
+745,2018,4,49,true,5,1,3,1,6,0,In eleifend quam a odio.,true
+746,2022,3,16,false,1,1,2,3,4,0,Integer ac leo.,true
+747,2018,1,41,false,1,2,1,1,8,0,Etiam justo. Etiam pretium iaculis justo.,true
+748,2019,3,28,true,5,2,3,2,1,5,Sed accumsan felis. Ut at dolor quis odio consequat varius.,true
+749,2021,4,18,false,4,6,5,3,6,1,Nam nulla.,true
+750,2018,4,25,false,1,6,4,1,5,1,Praesent id massa id nisl venenatis lacinia.,true
+751,2019,2,35,false,2,5,2,3,9,3,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",true
+752,2018,2,39,false,1,4,1,1,6,0,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",true
+753,2021,2,33,true,4,1,1,1,3,2,Nulla tellus.,false
+754,2022,4,28,true,1,5,3,1,6,3,Ut tellus. Nulla ut erat id mauris vulputate elementum.,false
+755,2019,2,41,true,4,5,3,3,6,1,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",false
+756,2023,3,18,true,4,4,3,3,3,0,Phasellus in felis.,true
+757,2018,1,36,false,3,2,2,3,5,4,Phasellus in felis. Donec semper sapien a libero.,true
+758,2021,3,18,true,2,6,7,2,2,3,Nam nulla.,true
+759,2023,3,29,true,3,5,4,3,7,2,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",false
+760,2022,3,44,true,4,1,7,2,4,4,Curabitur convallis.,true
+761,2022,4,19,false,3,5,3,1,6,4,Aliquam erat volutpat.,false
+762,2020,1,39,false,3,6,6,1,2,5,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",true
+763,2022,4,15,false,5,4,5,1,9,1,Pellentesque at nulla.,true
+764,2017,4,16,false,3,3,1,1,8,3,Nullam varius. Nulla facilisi.,false
+765,2019,1,48,true,4,3,2,3,2,5,Pellentesque ultrices mattis odio.,true
+766,2023,2,22,false,4,6,7,3,8,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",false
+767,2020,1,42,false,5,1,5,3,3,2,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",false
+768,2022,2,37,false,1,4,4,2,10,2,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,false
+769,2018,3,28,true,1,4,2,2,8,2,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",true
+770,2019,4,49,true,3,3,1,1,9,4,In hac habitasse platea dictumst.,false
+771,2020,1,46,false,5,5,1,3,3,5,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,false
+772,2022,4,27,false,4,1,5,2,6,1,Ut at dolor quis odio consequat varius. Integer ac leo.,false
+773,2023,4,50,true,4,2,1,1,9,4,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",false
+774,2019,4,48,false,3,4,3,3,4,5,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",true
+775,2023,2,25,true,5,3,7,3,6,2,Morbi porttitor lorem id ligula.,true
+776,2018,1,37,false,3,3,1,2,8,4,Nam dui.,false
+777,2019,1,45,false,5,4,7,3,4,4,Maecenas ut massa quis augue luctus tincidunt.,true
+778,2023,1,33,true,1,3,4,1,2,4,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,true
+779,2021,3,27,true,1,6,4,3,9,3,Phasellus sit amet erat. Nulla tempus.,true
+780,2019,2,48,true,5,1,2,1,1,1,Duis mattis egestas metus. Aenean fermentum.,true
+781,2020,3,20,false,5,2,6,1,1,3,Nunc purus. Phasellus in felis.,true
+782,2021,2,29,true,4,2,7,3,5,2,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",false
+783,2022,1,41,true,4,1,4,1,5,2,Quisque id justo sit amet sapien dignissim vestibulum.,false
+784,2022,2,32,true,4,1,3,2,8,1,Etiam vel augue. Vestibulum rutrum rutrum neque.,true
+785,2021,2,46,true,1,6,4,1,5,0,Curabitur gravida nisi at nibh.,true
+786,2023,1,27,false,5,4,2,2,9,4,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",false
+787,2019,2,25,true,1,5,2,1,7,0,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",false
+788,2022,1,43,false,1,3,1,2,8,2,Morbi ut odio.,true
+789,2021,2,26,false,4,2,3,3,10,2,Nunc nisl.,false
+790,2018,4,41,false,2,4,3,2,4,5,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,true
+791,2020,2,13,true,3,6,5,2,6,4,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,true
+792,2023,2,45,false,2,2,4,3,10,0,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",false
+793,2018,3,13,false,4,3,4,2,7,1,Quisque ut erat. Curabitur gravida nisi at nibh.,true
+794,2021,4,44,false,5,1,4,2,9,4,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",true
+795,2020,3,32,true,5,4,5,1,9,5,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,true
+796,2018,3,28,false,5,6,6,2,4,5,Etiam vel augue. Vestibulum rutrum rutrum neque.,true
+797,2019,3,35,false,3,1,6,1,5,2,Fusce consequat. Nulla nisl.,true
+798,2019,4,21,true,4,2,3,2,4,0,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,true
+799,2018,2,13,true,3,5,3,2,8,3,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,false
+800,2017,3,37,false,2,3,3,2,3,1,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,false
+801,2020,3,29,true,1,1,5,2,1,0,Ut at dolor quis odio consequat varius. Integer ac leo.,true
+802,2020,4,43,true,1,1,7,1,6,3,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",true
+803,2018,1,36,false,5,6,1,2,5,0,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,false
+804,2020,2,44,true,2,1,6,3,7,5,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",false
+805,2017,3,20,false,1,4,3,1,8,1,Maecenas pulvinar lobortis est.,false
+806,2022,4,35,false,5,3,7,2,1,2,Aliquam non mauris.,false
+807,2018,1,45,true,1,6,1,2,10,4,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",true
+808,2023,3,30,false,5,1,7,3,2,4,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",false
+809,2022,2,17,true,2,6,1,3,5,3,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",true
+810,2021,2,45,false,4,2,2,3,8,4,Mauris sit amet eros.,false
+811,2021,1,14,false,1,2,2,2,3,1,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",false
+812,2017,2,13,true,4,5,4,1,5,1,Phasellus in felis.,false
+813,2021,1,25,false,1,3,7,2,2,2,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,true
+814,2020,1,33,false,1,2,1,3,4,1,In congue.,false
+815,2021,1,17,true,4,3,5,2,6,3,Quisque ut erat.,false
+816,2018,3,39,true,4,4,3,3,7,4,Proin risus. Praesent lectus.,false
+817,2023,1,30,true,1,1,4,1,5,1,Pellentesque viverra pede ac diam.,true
+818,2017,3,36,true,5,4,1,3,8,5,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",false
+819,2019,4,28,false,4,5,7,2,4,3,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",true
+820,2017,4,20,true,3,1,6,3,1,1,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",true
+821,2022,4,20,false,4,1,4,2,3,2,In hac habitasse platea dictumst.,false
+822,2017,1,41,true,4,3,4,1,7,3,Nulla facilisi.,true
+823,2017,4,19,false,1,4,7,1,7,5,Phasellus id sapien in sapien iaculis congue.,false
+824,2021,3,42,true,2,4,1,1,2,3,Suspendisse potenti.,false
+825,2023,4,41,false,3,4,1,1,6,5,Aenean fermentum.,false
+826,2017,4,39,false,3,3,2,1,5,3,Integer ac leo.,true
+827,2018,2,21,true,4,2,7,3,4,1,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",true
+828,2021,2,26,true,1,4,2,2,9,5,Etiam justo.,true
+829,2017,3,48,true,3,4,5,3,4,1,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",false
+830,2020,3,24,true,1,6,7,3,2,1,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,true
+831,2019,2,28,true,3,6,1,1,4,4,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",false
+832,2021,2,26,true,5,1,1,3,7,3,Etiam pretium iaculis justo.,true
+833,2023,4,16,false,5,5,4,1,9,0,Vivamus in felis eu sapien cursus vestibulum.,false
+834,2021,4,38,false,4,5,4,3,2,1,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,true
+835,2019,4,18,true,1,3,2,3,2,5,Vestibulum rutrum rutrum neque.,false
+836,2022,3,35,true,1,4,7,3,7,3,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",false
+837,2019,2,15,false,1,1,5,1,2,0,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",true
+838,2020,2,43,true,4,4,7,1,1,1,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,false
+839,2019,1,33,true,2,2,4,1,1,1,Integer ac leo.,true
+840,2020,3,32,true,4,4,4,3,6,3,Vestibulum sed magna at nunc commodo placerat.,true
+841,2017,3,36,false,1,5,6,3,3,5,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",true
+842,2021,4,15,true,1,6,2,2,4,1,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",true
+843,2022,1,33,false,4,2,1,3,6,0,Proin at turpis a pede posuere nonummy. Integer non velit.,false
+844,2020,3,16,false,3,2,2,3,10,4,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,true
+845,2020,1,29,false,1,1,1,1,7,0,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,false
+846,2019,1,27,true,4,1,2,2,4,0,In hac habitasse platea dictumst.,true
+847,2020,3,41,true,1,3,5,1,6,3,In hac habitasse platea dictumst.,false
+848,2022,1,48,false,4,4,1,2,3,0,Proin risus. Praesent lectus.,false
+849,2018,1,23,true,3,1,6,2,9,0,Donec ut mauris eget massa tempor convallis.,false
+850,2021,1,43,true,2,5,6,3,7,0,Praesent id massa id nisl venenatis lacinia.,true
+851,2018,3,16,true,1,2,4,1,2,0,Etiam pretium iaculis justo. In hac habitasse platea dictumst.,true
+852,2018,1,30,true,1,1,6,1,7,1,Praesent blandit lacinia erat.,false
+853,2018,2,32,true,3,1,4,3,2,5,Praesent blandit.,false
+854,2017,2,48,false,2,2,7,1,7,2,Vivamus vestibulum sagittis sapien.,false
+855,2020,1,25,true,5,2,3,3,6,1,Praesent blandit lacinia erat.,false
+856,2023,1,17,false,2,1,5,3,3,3,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,true
+857,2022,4,20,true,1,4,6,2,9,2,Nulla mollis molestie lorem. Quisque ut erat.,false
+858,2023,4,13,true,5,5,7,2,5,0,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",false
+859,2018,4,22,false,4,1,2,2,5,1,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",false
+860,2023,4,25,false,1,5,3,1,7,1,Nulla ut erat id mauris vulputate elementum.,true
+861,2021,3,49,true,2,2,2,2,2,1,Maecenas ut massa quis augue luctus tincidunt.,true
+862,2023,2,27,false,1,3,1,1,4,2,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,false
+863,2017,2,19,false,3,6,2,2,2,0,Vestibulum ac est lacinia nisi venenatis tristique.,true
+864,2022,4,39,false,3,5,7,3,3,3,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,true
+865,2019,1,43,true,1,5,1,1,2,0,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",false
+866,2023,4,46,true,1,2,3,1,7,1,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",false
+867,2021,2,35,true,3,5,4,2,5,3,Proin eu mi.,true
+868,2017,3,22,true,5,4,2,3,5,3,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",false
+869,2022,4,33,false,2,3,7,3,3,1,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",false
+870,2022,1,49,false,4,6,3,1,2,0,Morbi quis tortor id nulla ultrices aliquet.,false
+871,2021,2,48,true,4,5,5,3,10,1,Aliquam erat volutpat. In congue.,false
+872,2018,3,30,false,3,5,7,2,5,2,Aliquam sit amet diam in magna bibendum imperdiet.,true
+873,2020,3,21,true,3,2,2,2,6,4,Mauris ullamcorper purus sit amet nulla.,false
+874,2023,1,45,true,3,4,5,2,5,5,Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.,false
+875,2017,3,32,true,2,1,7,1,7,5,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",false
+876,2020,2,41,false,2,1,3,2,5,5,Etiam vel augue.,true
+877,2022,4,29,false,5,2,7,2,6,3,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,false
+878,2023,2,50,true,3,5,7,3,8,4,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",false
+879,2019,3,48,true,2,4,3,2,4,0,Morbi quis tortor id nulla ultrices aliquet.,true
+880,2017,1,22,false,4,5,1,1,5,0,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",false
+881,2019,1,21,false,2,1,2,1,6,3,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",true
+882,2023,2,19,true,2,2,4,3,3,1,Donec semper sapien a libero.,false
+883,2017,1,18,false,4,6,1,3,3,3,Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.,false
+884,2021,2,18,false,2,4,5,3,8,0,Mauris sit amet eros.,false
+885,2021,2,21,false,2,2,3,2,2,1,In eleifend quam a odio.,false
+886,2021,3,44,false,3,1,3,2,3,2,Aenean lectus. Pellentesque eget nunc.,false
+887,2019,2,19,true,2,5,5,3,3,0,Nulla suscipit ligula in lacus.,false
+888,2019,4,29,true,2,5,6,3,6,2,In congue.,false
+889,2018,1,28,false,1,2,4,2,3,5,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",false
+890,2019,4,28,false,5,3,3,1,1,4,In quis justo.,false
+891,2022,3,45,false,4,2,1,3,2,0,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",false
+892,2018,4,14,true,1,5,7,2,7,2,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",false
+893,2020,1,19,false,4,1,2,3,2,2,Duis mattis egestas metus.,false
+894,2023,4,50,false,1,1,1,1,5,0,Etiam faucibus cursus urna. Ut tellus.,false
+895,2019,2,43,false,2,4,3,2,5,5,Nullam varius. Nulla facilisi.,true
+896,2019,1,19,true,2,3,6,1,9,0,Nulla mollis molestie lorem. Quisque ut erat.,false
+897,2022,2,15,false,1,1,3,1,6,2,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,false
+898,2017,1,21,false,4,2,5,2,8,0,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",true
+899,2019,4,22,false,4,5,5,1,1,3,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",true
+900,2023,3,20,true,2,1,5,3,9,5,Nullam molestie nibh in lectus. Pellentesque at nulla.,false
+901,2017,3,27,true,4,3,1,3,8,3,Integer non velit.,false
+902,2023,3,42,true,1,1,6,1,8,5,Duis bibendum. Morbi non quam nec dui luctus rutrum.,true
+903,2018,1,35,false,1,6,5,2,7,0,Cras in purus eu magna vulputate luctus.,false
+904,2018,4,41,false,4,5,7,1,4,1,Curabitur in libero ut massa volutpat convallis.,false
+905,2023,4,33,false,5,4,4,3,9,3,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,true
+906,2019,4,50,false,4,5,1,2,3,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",true
+907,2019,1,19,false,4,3,4,2,3,2,Praesent blandit.,true
+908,2021,1,49,true,2,2,2,3,5,2,Mauris sit amet eros.,false
+909,2020,3,13,false,2,1,4,2,9,5,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,true
+910,2021,4,25,true,5,1,6,1,8,0,Suspendisse potenti.,false
+911,2017,4,34,false,3,6,3,1,6,0,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",false
+912,2018,4,18,true,4,3,1,2,2,4,Donec ut mauris eget massa tempor convallis.,false
+913,2019,2,13,false,1,4,3,3,5,4,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",true
+914,2023,2,23,true,3,5,1,1,1,0,Sed vel enim sit amet nunc viverra dapibus.,false
+915,2022,2,21,false,4,4,3,2,3,2,Maecenas rhoncus aliquam lacus.,true
+916,2021,4,38,false,2,2,5,2,4,2,Ut tellus.,false
+917,2020,4,33,true,2,6,5,2,2,1,Praesent lectus.,true
+918,2023,1,50,true,3,1,7,2,6,5,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,false
+919,2017,1,26,false,3,4,1,3,10,1,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",false
+920,2021,4,25,false,1,5,3,1,9,4,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",false
+921,2019,3,44,true,4,6,5,3,8,5,Sed ante. Vivamus tortor.,false
+922,2022,1,19,true,4,4,2,3,7,2,Aliquam sit amet diam in magna bibendum imperdiet.,true
+923,2023,2,39,false,5,3,3,3,9,2,Mauris ullamcorper purus sit amet nulla.,false
+924,2018,4,36,false,5,2,6,3,7,5,Etiam justo. Etiam pretium iaculis justo.,false
+925,2022,3,20,false,2,2,7,1,3,1,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",false
+926,2017,1,15,false,5,6,2,2,2,4,Nunc rhoncus dui vel sem. Sed sagittis.,true
+927,2022,4,47,true,4,4,2,1,4,4,Integer ac leo. Pellentesque ultrices mattis odio.,false
+928,2020,2,37,false,5,4,6,2,2,5,Duis mattis egestas metus. Aenean fermentum.,true
+929,2023,2,15,true,4,6,1,1,4,3,Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.,false
+930,2018,1,34,false,4,3,4,2,2,3,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",true
+931,2019,4,37,true,2,3,7,3,7,5,Etiam pretium iaculis justo.,true
+932,2018,3,28,false,3,6,7,2,8,0,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,false
+933,2019,1,32,true,2,1,6,2,2,0,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",false
+934,2022,2,31,true,2,1,3,2,6,0,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",false
+935,2022,1,28,false,5,2,1,3,4,4,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",true
+936,2019,2,32,false,4,5,3,3,5,5,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",false
+937,2019,1,28,false,3,5,3,2,4,5,Aliquam quis turpis eget elit sodales scelerisque.,true
+938,2021,3,28,true,2,5,7,3,10,4,Integer ac neque.,true
+939,2023,1,49,false,1,2,7,3,9,0,Suspendisse potenti.,true
+940,2020,3,13,false,5,4,5,1,2,5,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",false
+941,2022,3,19,true,5,4,7,2,2,5,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,false
+942,2022,3,45,false,3,6,7,1,9,4,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",true
+943,2020,4,42,true,3,4,5,1,10,5,Nullam sit amet turpis elementum ligula vehicula consequat.,false
+944,2018,3,25,true,5,6,1,2,3,0,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",true
+945,2023,2,38,true,5,4,7,2,2,3,Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.,true
+946,2018,2,30,false,2,1,5,2,9,0,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,true
+947,2017,3,37,true,4,6,5,1,10,4,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,true
+948,2019,4,20,false,5,3,6,1,5,5,Donec posuere metus vitae ipsum.,true
+949,2021,3,40,true,1,2,5,1,7,1,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",false
+950,2022,4,39,false,2,2,6,3,4,3,Ut tellus.,true
+951,2017,4,44,true,5,1,6,2,5,3,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",true
+952,2018,4,17,false,2,5,2,3,9,5,Maecenas pulvinar lobortis est. Phasellus sit amet erat.,true
+953,2018,1,42,true,2,6,7,1,8,5,Donec ut dolor.,true
+954,2018,1,16,false,4,2,3,1,5,0,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",false
+955,2019,2,42,true,5,1,2,2,3,1,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,true
+956,2018,4,46,true,3,6,2,2,4,3,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,false
+957,2019,3,25,false,2,5,4,2,4,2,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,false
+958,2020,4,33,false,1,5,3,3,1,3,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",true
+959,2019,4,38,true,1,2,2,3,8,0,Sed vel enim sit amet nunc viverra dapibus.,false
+960,2022,2,19,true,2,2,6,3,4,1,Donec posuere metus vitae ipsum.,true
+961,2018,2,30,true,4,5,4,3,5,1,Pellentesque viverra pede ac diam.,false
+962,2021,1,16,false,3,4,6,1,3,0,In hac habitasse platea dictumst.,true
+963,2022,3,15,true,5,2,3,3,5,1,Integer ac leo.,false
+964,2022,3,26,false,3,3,2,3,1,5,Donec dapibus. Duis at velit eu est congue elementum.,false
+965,2019,3,29,true,2,1,6,3,10,3,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",true
+966,2019,2,43,false,2,2,5,3,3,0,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",false
+967,2018,2,44,false,4,2,3,1,2,0,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",true
+968,2020,1,26,false,1,6,6,2,1,0,Etiam pretium iaculis justo.,true
+969,2023,2,29,false,4,1,3,3,5,3,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",false
+970,2017,3,29,false,1,6,6,2,2,2,Aenean lectus. Pellentesque eget nunc.,false
+971,2021,3,48,false,3,4,2,2,8,2,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",false
+972,2022,3,23,false,4,4,1,2,6,5,Aliquam erat volutpat.,true
+973,2019,1,31,true,3,1,6,1,7,0,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",false
+974,2023,2,35,false,1,2,3,3,3,4,Fusce posuere felis sed lacus.,true
+975,2018,2,31,false,5,2,4,1,1,3,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,false
+976,2022,2,43,false,4,1,4,3,8,5,Quisque id justo sit amet sapien dignissim vestibulum.,false
+977,2021,3,26,true,5,3,5,2,10,3,In hac habitasse platea dictumst.,true
+978,2020,3,38,false,4,2,2,2,9,1,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",true
+979,2021,4,40,true,2,3,7,2,4,1,Vivamus vel nulla eget eros elementum pellentesque.,true
+980,2019,1,30,false,1,1,4,1,5,3,Nulla facilisi.,true
+981,2017,1,29,false,1,6,7,2,10,0,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",false
+982,2017,2,29,true,4,6,2,3,7,4,Aliquam non mauris.,false
+983,2019,2,28,true,1,5,1,1,5,3,Suspendisse potenti.,false
+984,2022,3,21,false,5,6,3,2,5,5,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",false
+985,2019,1,34,true,1,2,1,3,1,5,Donec posuere metus vitae ipsum.,true
+986,2019,3,48,false,4,2,7,1,3,2,Mauris sit amet eros.,false
+987,2022,1,14,true,1,2,5,3,4,4,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,true
+988,2021,3,35,false,1,5,5,1,9,0,Nulla mollis molestie lorem.,false
+989,2021,3,43,false,4,6,3,2,5,3,Suspendisse potenti.,false
+990,2020,2,30,false,4,5,2,1,10,3,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",true
+991,2018,2,26,true,1,1,2,3,9,2,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",false
+992,2017,2,46,false,1,1,2,1,8,3,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",false
+993,2020,4,28,false,1,6,7,2,4,3,Nullam varius.,true
+994,2021,1,27,true,1,3,2,2,4,5,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",false
+995,2022,3,21,false,1,5,7,3,1,4,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",true
+996,2020,1,34,false,4,6,3,3,7,0,Morbi porttitor lorem id ligula.,true
+997,2018,4,15,false,3,1,3,3,4,4,Proin at turpis a pede posuere nonummy. Integer non velit.,true
+998,2021,3,46,true,3,1,2,3,3,4,Morbi porttitor lorem id ligula.,false
+999,2022,4,22,false,2,2,4,2,9,3,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",true
+1000,2017,1,20,true,1,2,7,1,3,1,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,true
